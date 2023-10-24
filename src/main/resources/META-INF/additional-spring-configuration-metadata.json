@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "com.example.kafka.topic",
+    "type": "java.lang.String",
+    "description": "Topic name'"
+  },
+  {
+    "name": "com.example.kafka.groupId",
+    "type": "java.lang.String",
+    "description": "Group Id"
+  }
+]}
