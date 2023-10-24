@@ -1,2 +1,2 @@
-# kafka-exp
-Poc with Kafka and Springboot
+# Kafka POC
+A POC project to learn kafka using Springboot
